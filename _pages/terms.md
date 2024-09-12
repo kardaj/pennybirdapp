@@ -4,9 +4,6 @@ title: Terms
 include_in_header: false
 ---
 
-**Last updated**  
-Sep 12 2024
-
 # Terms of Use
 
 These Terms of Use ("Terms") govern your use of the PennyBird application ("PennyBird" or "Application") operated by Hassene Ben Salem ("I" or "me").
@@ -32,3 +29,6 @@ The Terms were last updated on the date indicated below. Any changes to the Term
 
 ## Governing Law
 Any claim relating to PennyBird shall be governed by French law. In the event of a dispute that cannot be settled amicably, the Commercial Court of Bordeaux shall have sole jurisdiction.
+
+**Last updated**  
+Sep 12 2024
